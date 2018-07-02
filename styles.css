@@ -1,6 +1,7 @@
 h1{
     color:lightgreen;
     background-color: violet;
+    cursor: pointer;
 }
 
 body{
