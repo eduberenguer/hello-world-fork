@@ -6,4 +6,13 @@ h1{
 
 body{
     background-color: black;
+    border: 5px solid violet;
+    height:100%;
+    margin: 0;
+    padding: 0;
+}
+html{
+    height: 100%;
+    margin: 0;
+    padding: 0;
 }
