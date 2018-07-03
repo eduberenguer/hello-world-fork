@@ -9,3 +9,4 @@ function welcome(){
 function showInstructions(){
     alert("Instructions Instrucciones Anleintung \n"+"\nLorem ipsum dolor sit, amet consectetur adipisicing elit. Numquam, fugit provident repellendus quam voluptatum porro, dolores vel, eos nulla corrupti odit.");
 
+ }
