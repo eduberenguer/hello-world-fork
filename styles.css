@@ -4,6 +4,12 @@ h1{
     cursor: pointer;
 }
 
+h2{
+    color:white;
+}
+ol{
+    color:white;
+}
 body{
     background-color: black;
     border: 5px solid violet;
