@@ -1,5 +1,5 @@
 console.log("carga bien");
 
 function showMessage(){
-    alert('Hello, World! Hola, Mundo!');
+    alert('Hello, World! Hola, Mundo! Hallo Welt!');
 }
